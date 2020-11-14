@@ -1,9 +1,28 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
+<main
+  class="styles__Wrapper-gFJSv KNcYQ"
+>
+  <img
+    alt="Imagem de um átomo com a palavra React Avançado escrito ao seu lado direito."
+    class="styles__Logo-bRSJPP cqczft"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="styles__Title-cLnMKw jvQMkl"
+  >
     React Avançado
   </h1>
+  <h2
+    class="styles__Description-emvDpe ixJVNE"
+  >
+    TypeScript, ReactJS, NextJS e Styled Components
+  </h2>
+  <img
+    alt="Imagem de um desenvolvedor sentado em frente a um computador."
+    class="styles__Illustration-fziOxg hRqxQo"
+    src="/img/hero-illustration.svg"
+  />
 </main>
 `;
