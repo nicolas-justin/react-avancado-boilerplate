@@ -1,27 +1,70 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #06092b;
+}
+
+.c1 {
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: min(30rem,100%);
+}
+
 <main
-  class="styles__Wrapper-gFJSv KNcYQ"
+  class="c0"
 >
   <img
     alt="Imagem de um átomo com a palavra React Avançado escrito ao seu lado direito."
-    class="styles__Logo-bRSJPP cqczft"
+    class="c1"
     src="/img/logo.svg"
   />
   <h1
-    class="styles__Title-cLnMKw jvQMkl"
+    class="c2"
   >
     React Avançado
   </h1>
   <h2
-    class="styles__Description-emvDpe ixJVNE"
+    class="c3"
   >
     TypeScript, ReactJS, NextJS e Styled Components
   </h2>
   <img
     alt="Imagem de um desenvolvedor sentado em frente a um computador."
-    class="styles__Illustration-fziOxg hRqxQo"
+    class="c4"
     src="/img/hero-illustration.svg"
   />
 </main>
