@@ -2,7 +2,7 @@
   <img
     alt="Imagem de um átomo com a palavra React Avançado escrito ao seu lado direito."
     src=".github/atom.svg"
-    width="250px"
+    width="150px"
   />
 </h1>
 
@@ -116,7 +116,7 @@ yarn -v
 <br>
 
 <p align="right">
-  <a href="#" title="Voltar ao topo">⬆ Voltar ao topo</a>
+  <a href="#readme" title="Voltar ao topo">⬆ Voltar ao topo</a>
 </p>
 
 <br>
@@ -144,7 +144,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 <p align="right">
-  <a href="#" title="Topo">⬆ Voltar ao topo</a>
+  <a href="#readme" title="Voltar ao topo">⬆ Voltar ao topo</a>
 </p>
 
 <br>
@@ -193,7 +193,7 @@ Pronto!
 <br>
 
 <p align="right">
-  <a href="#" title="Voltar ao topo">⬆ Voltar ao topo</a>
+  <a href="#readme" title="Voltar ao topo">⬆ Voltar ao topo</a>
 </p>
 
 <br>
@@ -215,7 +215,7 @@ Pronto!
 <br>
 
 <p align="right">
-  <a href="#" title="Voltar ao topo">⬆ Voltar ao topo</a>
+  <a href="#readme" title="Voltar ao topo">⬆ Voltar ao topo</a>
 </p>
 
 <br>
@@ -239,7 +239,7 @@ Siga os passos abaixo para contribuir com a melhoria do projeto:
 <br>
 
 <p align="right">
-  <a href="#" title="Topo">⬆ Voltar ao topo</a>
+  <a href="#readme" title="Voltar ao topo">⬆ Voltar ao topo</a>
 </p>
 
 <br>
@@ -255,7 +255,7 @@ Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
 <br>
 
 <p align="right">
-  <a href="#" title="Voltar ao topo">⬆ Voltar ao topo</a>
+  <a href="#readme" title="Voltar ao topo">⬆ Voltar ao topo</a>
 </p>
 
 ---
