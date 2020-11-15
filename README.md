@@ -38,6 +38,13 @@
       alt="License"
     />
   </a>
+  <a
+    href="https://github.com/nicolas-justin/react-avancado-boilerplate/actions?query=workflow%3Aci">
+    <img
+      src="https://github.com/nicolas-justin/react-avancado-boilerplate/workflows/ci/badge.svg"
+      alt="Workflow CI"
+    />
+  </a>
 </p>
 
 <p align="center">
