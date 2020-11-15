@@ -2,6 +2,22 @@
   "name": "react-avancado-boilerplate",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
+  "description": "Projeto construído com base no curso de React Avançado do Willian Justen",
+  "author": {
+    "name": "Nícolas Justin",
+    "email": "nicolasjustin.dev@gmail.com",
+    "url": "https://nicolasjustin.dev/author/nicolas-justin"
+  },
+  "homepage": "https://github.com/nicolas-justin/react-avancado-boilerplate#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolas-justin/react-avancado-boilerplate.git"
+  },
+  "bugs": {
+    "email": "nicolasjustin.dev@gmail.com",
+    "url": "https://github.com/nicolas-justin/react-avancado-boilerplate/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

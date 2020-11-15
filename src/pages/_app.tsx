@@ -13,7 +13,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
-          content="A simple project start to work with TypeScript, React, NextJS and Styled Components"
+          content="Projeto construído com base no curso de React Avançado do Willian Justen"
         />
       </Head>
       <GlobalStyles />
