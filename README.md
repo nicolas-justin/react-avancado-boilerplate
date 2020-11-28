@@ -11,38 +11,45 @@
 <p align="center">
   <img
     src="https://img.shields.io/github/languages/count/nicolas-justin/react-avancado-boilerplate"
-    alt="GitHub language count"
+    alt="Languages count"
   />
   <img
     src="https://img.shields.io/github/repo-size/nicolas-justin/react-avancado-boilerplate"
     alt="Repository size"
   />
   <a
-    href="https://github.com/nicolas-justin/react-avancado-boilerplate/commits/master">
-    <img
-      src="https://img.shields.io/github/last-commit/nicolas-justin/react-avancado-boilerplate"
-      alt="GitHub last commit"
-    />
-  </a>
-  <a
     href="https://github.com/nicolas-justin/react-avancado-boilerplate/issues">
     <img
       src="https://img.shields.io/github/issues/nicolas-justin/react-avancado-boilerplate"
-      alt="Repository issues"
+      alt="Open issues"
+    />
+  </a>
+  <a
+    href="https://github.com/nicolas-justin/react-avancado-boilerplate/pulls">
+    <img
+      src="https://img.shields.io/github/issues-pr/nicolas-justin/react-avancado-boilerplate"
+      alt="Open pull requests"
+    />
+  </a>
+  <a
+    href="https://github.com/nicolas-justin/react-avancado-boilerplate/commits/master">
+    <img
+      src="https://img.shields.io/github/last-commit/nicolas-justin/react-avancado-boilerplate"
+      alt="Last commit"
+    />
+  </a>
+  <a
+    href="https://github.com/nicolas-justin/react-avancado-boilerplate/actions?query=workflow%3Aci">
+    <img
+      src="https://img.shields.io/github/workflow/status/nicolas-justin/react-avancado-boilerplate/ci"
+      alt="Workflow build"
     />
   </a>
   <a
     href="LICENSE.md">
     <img
       src="https://img.shields.io/github/license/nicolas-justin/react-avancado-boilerplate"
-      alt="License"
-    />
-  </a>
-  <a
-    href="https://github.com/nicolas-justin/react-avancado-boilerplate/actions?query=workflow%3Aci">
-    <img
-      src="https://github.com/nicolas-justin/react-avancado-boilerplate/workflows/ci/badge.svg"
-      alt="Workflow CI"
+      alt="Project license"
     />
   </a>
 </p>
