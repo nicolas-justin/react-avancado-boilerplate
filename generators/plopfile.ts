@@ -1,4 +1,4 @@
-import { NodePlopAPI } from 'plop';
+import { NodePlopAPI } from 'plop'
 
 const componentConfig = {
   description: 'application component logic',
@@ -31,8 +31,8 @@ const componentConfig = {
       templateFile: 'templates/test.tsx.hbs',
     },
   ],
-};
+}
 
 export default (plop: NodePlopAPI) => {
-  plop.setGenerator('component', componentConfig);
-};
+  plop.setGenerator('component', componentConfig)
+}

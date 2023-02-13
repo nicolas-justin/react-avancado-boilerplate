@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyles = createGlobalStyle`
   *,
@@ -23,6 +23,6 @@ const GlobalStyles = createGlobalStyle`
   #__next {
     height: 100%;
   }
-`;
+`
 
-export default GlobalStyles;
+export default GlobalStyles

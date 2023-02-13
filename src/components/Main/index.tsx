@@ -1,4 +1,4 @@
-import * as S from './styles';
+import * as S from './styles'
 
 export default function Main({
   title = 'React Avançado',
@@ -17,5 +17,5 @@ export default function Main({
         alt="Imagem de um desenvolvedor sentado em frente a um computador."
       />
     </S.Wrapper>
-  );
+  )
 }

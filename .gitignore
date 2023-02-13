@@ -17,7 +17,6 @@
 
 # misc
 .DS_Store
-*.pem
 
 # debug
 npm-debug.log*
@@ -30,12 +29,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# vercel
-.vercel
-
-# service worker
-/public/sw.js
-/public/workbox-*.js
+# sw stuff
+public/sw.js
+public/workbox-*.js
 
 # storybook
-/storybook-static
+storybook-static
